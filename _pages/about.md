@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D., CSE, HKUST
+subtitle: Ph.D. student, CSE, HKUST
 
 profile:
   align: right
