@@ -6,7 +6,7 @@ subtitle: Ph.D. student, CSE, HKUST
 
 profile:
   align: right
-  image: img/snow.JPG #prof_pic.jpg
+  image: snow.jpg #prof_pic.jpg
   image_circular: false # crops the image to make it circular
   #address: #>
     #<p>555 your office number</p>
