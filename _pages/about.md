@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student at CSE, HKUST
+subtitle: Ph.D., CSE, HKUST
 
 profile:
   align: right
-  image: snow.JPG #prof_pic.jpg
+  image: img/snow.JPG #prof_pic.jpg
   image_circular: false # crops the image to make it circular
   #address: #>
     #<p>555 your office number</p>
