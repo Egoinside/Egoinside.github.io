@@ -13,7 +13,7 @@ nav_order: 1
 
 
 
-
+{% bibliography -f papers %}
 
 
 {%- for y in page.years %}
