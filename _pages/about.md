@@ -6,7 +6,7 @@ subtitle: Ph.D. student, CSE, HKUST
 
 profile:
   align: right
-  image: snow_small.jpg
+  image: van_small.jpg
   image_circular: false # crops the image to make it circular
   # address: >
     
