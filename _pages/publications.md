@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=hr2JciwAAAAJ)
+description: 
 years: []
 nav: true
 nav_order: 1
