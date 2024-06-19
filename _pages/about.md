@@ -5,7 +5,7 @@ permalink: /
 subtitle: Ph.D. student, CSE, HKUST
 
 profile:
-  align: right
+  align: left
   image: gangshika.PNG
   image_circular: false # crops the image to make it circular
   # address: >
