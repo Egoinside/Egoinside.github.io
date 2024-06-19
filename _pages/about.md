@@ -22,5 +22,6 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hi, I am a Ph.D. student in computer science at Hong Kong University of Science and Technology, advised by Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/). I do research on `datacenter networking` and `distributed systems`, with a recent focus on `high-speed networking` and `AI-centric networking`. I received my bachelor's degree at Peking University, where I was advised by Prof. [Tong Yang](https://yangtonghome.github.io/). 
+Hi, I am a Ph.D. student in computer science at Hong Kong University of Science and Technology, advised by Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/). I do research on datacenter networking and distributed systems, with a recent focus on `high-speed networking` and `AI-centric networking`. I received my bachelor's degree at Peking University, where I was advised by Prof. [Tong Yang](https://yangtonghome.github.io/). 
+
 [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=hr2JciwAAAAJ)
